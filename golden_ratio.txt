@@ -6,3 +6,6 @@
 <=> a = golden ratio * h - goldren ratio * a
 <=> (1 + golden ratio) * a = golden ratio * h
 <=> a = (golden ratio * h) / (1 + golden ratio)
+<=> a = h * (golden ratio / (1 + golden ratio))
+
+a = h * 
