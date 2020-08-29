@@ -1,0 +1,8 @@
+    h = a + b
+<=> b = h - a
+
+    a / b = golden ratio
+<=> a = golden ratio * (h - a)
+<=> a = golden ratio * h - goldren ratio * a
+<=> (1 + golden ratio) * a = golden ratio * h
+<=> a = (golden ratio * h) / (1 + golden ratio)
