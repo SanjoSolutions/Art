@@ -8,4 +8,6 @@
 <=> a = (golden ratio * h) / (1 + golden ratio)
 <=> a = h * (golden ratio / (1 + golden ratio))
 
+golden ratio / (1 + golden ratio) ≅ 
+
 a = h * 
